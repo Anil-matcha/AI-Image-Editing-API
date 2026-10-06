@@ -8,6 +8,7 @@ Compare instruction-based, masked, and reference-driven image editing workflows.
 
 - [Image-Face-Swap-API](https://github.com/Anil-matcha/Image-Face-Swap-API)
 - [AI-Character-Consistency-API](https://github.com/Anil-matcha/AI-Character-Consistency-API)
+- [AI-Photo-Effects-API](https://github.com/Anil-matcha/AI-Photo-Effects-API) — 48 named photo effects — figurines, comics, decade looks — instead of free-form edits.
 
 ## What this API covers
 
